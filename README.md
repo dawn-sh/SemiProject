@@ -85,9 +85,15 @@ Map 활용 전국 휴게소 찾기!! <br>
 ## 시연 영상
 
 ### 김석진
-- 휴게소 위치 찾기
-![KakaoTalk_Photo_2023-09-25-17-15-59 003](https://github.com/jooyoungsong/SemiProject/assets/111737185/994362ea-939c-4b2c-a99e-3632912caa2e)
 
+-반응형
+![반응형](https://github.com/jooyoungsong/SemiProject/assets/45508671/47fbf7fe-82c4-45cb-b01d-f8550c5ee7c6)
+- 휴게소 위치 검색및찾기
+![휴게소리스트](https://github.com/jooyoungsong/SemiProject/assets/45508671/4d9ed1db-9c29-4ef6-9081-269079ce84c9)
+- 휴게소 추가 및 생성
+![KakaoTalk_Photo_2023-09-25-17-15-59 003](https://github.com/jooyoungsong/SemiProject/assets/111737185/994362ea-939c-4b2c-a99e-3632912caa2e)
+- 관리자 페이지 이동
+![관리자페이지이동](https://github.com/jooyoungsong/SemiProject/assets/45508671/664b936e-2416-4456-9d06-03ef5d87fb1e)
 ### 박희찬
 - 지도 API 구현
 <img width="708" alt="스크린샷 2023-09-21 181703" src="https://github.com/jooyoungsong/SemiProject/assets/136789700/a907a3a7-7887-4d96-8967-f418b6e4e642">
@@ -111,9 +117,9 @@ Map 활용 전국 휴게소 찾기!! <br>
 
 ### 이성신
 - 음식추가
-![KakaoTalk_Photo_2023-09-25-17-22-40](https://github.com/jooyoungsong/SemiProject/assets/111737185/a005f68f-06cc-44aa-be73-2dec0f46a4ec)
+<video src="https://github.com/jooyoungsong/SemiProject/assets/136788985/99ef3e83-e099-419d-a5a6-81f47589cf99.mp4" type="video/mp4"></video>
 - 디테일페이지
-![디테일 페이지](https://github.com/jooyoungsong/SemiProject/assets/136788985/00ffc9ee-2204-41af-9fb0-e7a00929db20)
+![디테일 페이지](https://github.com/jooyoungsong/SemiProject/assets/136788985/b1e64fca-487d-4cd7-82a1-2b20840b68ee)
 - 오더페이지&결제API(카카오페이&토스)
 ![결제 및 오더페이지](https://github.com/jooyoungsong/SemiProject/assets/136788985/6504b94a-b4b6-46e2-8b49-2639138806bc)
 - 매장&유저 주문창
