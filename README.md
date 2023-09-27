@@ -86,7 +86,7 @@ Map 활용 전국 휴게소 찾기!! <br>
 
 ### 김석진
 
--반응형
+- 반응형
 ![반응형](https://github.com/jooyoungsong/SemiProject/assets/45508671/47fbf7fe-82c4-45cb-b01d-f8550c5ee7c6)
 - 휴게소 위치 검색및찾기
 ![휴게소리스트](https://github.com/jooyoungsong/SemiProject/assets/45508671/4d9ed1db-9c29-4ef6-9081-269079ce84c9)
